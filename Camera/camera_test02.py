@@ -10,12 +10,12 @@ with picamera.PiCamera() as camera:
 		camera.resolution = (1024, 768)
 		camera.start_preview()
 		y = effects[val]
-       		camera.image_effect = y
-       		camera.annotate_text = y 
-       		time.sleep(2)
-        	camera.capture(str(val)+effects[val]+".jpg")
-        	print("Done")
-        	val = val+1
-   	else:
-        	camera.close() 
+		camera.image_effect = y
+		camera.annotate_text = y 
+		time.sleep(2)
+		camera.capture(str(val)+effects[val]+".jpg")
+		print("Done")
+		val = val+1
+	else:
+		camera.close() 
 		print("Finished")
