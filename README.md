@@ -22,7 +22,11 @@ Goal #2:
 |R: How does this goal support the success of your project?|Figuring out the values for each piece will allow me to begin training the model, which is really the crux of the project.|
 |T: When exactly do you want to accomplish it?|I hope to accomplish this before winter break, which would be Friday, December 17. However, I don’t know what that last week of school before break looks like, and an exam schedule could throw off my plans.|
 
+### Engineering 4 Pi Camera Assignments
 
+[First Assignment](Camera/camera_test01.py) 
+
+[Second Assignment](Camera/camera_test02.py)
 
 
 
