@@ -23,10 +23,19 @@ Goal #2:
 |T: When exactly do you want to accomplish it?|I hope to accomplish this before winter break, which would be Friday, December 17. However, I don’t know what that last week of school before break looks like, and an exam schedule could throw off my plans.|
 
 ### Engineering 4 Pi Camera Assignments
+In order to get a better idea of how to use the Raspberry Pi camera and code for it, I decided to revisit the Engineering 4 Pi Camera assignments I hadn't ever done done. These were fairly quick, and they provided me with a strong foundation for using the camera that I think will be extremely useful. Up until now, I had only used command line actions with the camera, but for my project I'll definitely need to write code and program the camera, so this was a necessary step in the process. Additionally, the second assignment involved adding effects to images, which might be useful later down the road for turning images to grayscale to analyze. I also used arrays and for loops, which are both very useful comcepts that it was good to review.
+
+[This link](https://picamera.readthedocs.io/en/release-1.10/index.html) was a very helpful resource for Pi Camera coding, and I will definitely use it later on. Section 4 had information on basic camera commands and section 10 had information about effects, as well as various other things you can specify, like turning the flash on or off.
 
 [First Assignment](Camera/camera_test01.py) 
 
 [Second Assignment](Camera/camera_test02.py)
 
+<img src="Camera/0pastel.jpg" width="300">
+<img src="Camera/1solarize.jpg" width="300">
+<img src="Camera/2colorswap.jpg" width="300">
+<img src="Camera/3watercolor.jpg" width="300">
+<img src="Camera/4denoise.jpg" width="300">
+<img src="PhoneCamera/effectsCompare.jpg" width="300">
 
 
