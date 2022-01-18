@@ -31,7 +31,7 @@ In order to get a better idea of how to use the Raspberry Pi camera and code for
 
 [Second Assignment](Camera/camera_test02.py)
 
-<img src="Camera/0pastel.jpg" width="300"> <img src="Camera/1solarize.jpg" width="300"> <img src="Camera/2colorswap.jpg" width="300">
-<img src="Camera/3watercolor.jpg" width="300"> <img src="Camera/4denoise.jpg" width="300"> <img src="PhoneCamera/effectsCompare.jpg" width="300">
+<img src="Camera/0pastel.jpg" width="30%"> <img src="Camera/1solarize.jpg" width="30%"> <img src="Camera/2colorswap.jpg" width="30%">
+<img src="Camera/3watercolor.jpg" width="30%"> <img src="Camera/4denoise.jpg" width="30%"> <img src="PhoneCamera/effectsCompare.jpg" width="30%">
 
 
